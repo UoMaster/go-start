@@ -1,5 +1,8 @@
 # Go Gin Clean Starter
 
+## 引用
+[go-gin-clean-starter](github.com/Caknoooo/go-gin-clean-starter)
+
 一个开箱即用的 Go + Gin 项目脚手架，采用 Clean Architecture 架构，集成了用户认证、JWT、依赖注入等常用功能，帮助你快速启动后端开发。
 
 ## ✨ 特性
